@@ -7,10 +7,7 @@ A powerful command-line interface for importing and reimporting security scan re
 - 🚀 **Interactive Wizard**: Step-by-step guided import process
 - ⚡ **Direct Commands**: Quick import/reimport with command-line arguments
 - 🎯 **Smart Autocomplete**: Intelligent scan type selection with fast Enter key support
-- 🔍 **Scan Type Validation**: Validates scan types against DefectDojo's API schema
 - 📊 **Import Summary**: Displays results with direct links to view scans
-- 🔄 **Multiple Sources**: Load scan types from server, local file, or fallback list
-- 🛡️ **Flexible Auth**: Token-based or username/password authentication
 
 ## Installation
 
