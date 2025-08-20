@@ -1,0 +1,18 @@
+[project]
+name = "defectdojo-uploader"
+version = "0.1.0"
+description = "Tiny CLI to import/reimport scans into DefectDojo (interactive or direct)."
+requires-python = ">=3.9"
+readme = "README.md"
+authors = [{ name = "Alvaro de la Torre" }]
+
+dependencies = [
+  "typer==0.16.1",
+  "httpx==0.28.1",
+  "questionary==2.1.0",
+  "rich==14.1.0",
+  "pydantic==2.11.7"
+]
+
+[project.scripts]
+dd-upload = "ddcli.cli:app"

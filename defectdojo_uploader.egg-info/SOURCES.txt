@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+ddcli/__init__.py
+ddcli/api.py
+ddcli/cli.py
+defectdojo_uploader.egg-info/PKG-INFO
+defectdojo_uploader.egg-info/SOURCES.txt
+defectdojo_uploader.egg-info/dependency_links.txt
+defectdojo_uploader.egg-info/entry_points.txt
+defectdojo_uploader.egg-info/requires.txt
+defectdojo_uploader.egg-info/top_level.txt

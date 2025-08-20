@@ -1,0 +1,2 @@
+[console_scripts]
+dd-upload = ddcli.cli:app
